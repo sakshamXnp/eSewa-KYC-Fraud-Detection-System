@@ -99,5 +99,5 @@ User → [ Multi-Step KYC Form ]
 This system is built to align with **NRB's Digital KYC Guidelines**. By reducing manual review time from hours to seconds and catching 95% of spoofing attempts automatically, we enable faster financial inclusion for the 20M+ unbanked and underbanked citizens of Nepal.
 
 ---
-**Team:** [Your Team Name]
+**Team:** Saksham Niraula
 **Hackathon Track:** Challenge 5 — KYC Fraud Detection
